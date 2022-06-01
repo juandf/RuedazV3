@@ -58,7 +58,7 @@ final ThemeData darkTheme = ThemeData(
       fontStyle: FontStyle.normal,
     ),
     subtitle1: GoogleFonts.nunito(
-      color: const Color(0xdd000000),
+      color: Colors.white,
       fontSize: 16,
       fontWeight: FontWeight.w900,
       fontStyle: FontStyle.normal,
@@ -88,7 +88,7 @@ final ThemeData darkTheme = ThemeData(
       fontStyle: FontStyle.normal,
     ),
     subtitle2: GoogleFonts.nunito(
-      color: const Color(0xff000000),
+      color: Colors.white,
       fontSize: 14,
       fontWeight: FontWeight.w900,
       fontStyle: FontStyle.normal,
